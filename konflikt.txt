@@ -1,1 +1,5 @@
+
 Wersja A: Zmiana z brancha A
+
+Wersja B: Zmiana z brancha B
+
